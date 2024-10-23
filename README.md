@@ -40,7 +40,7 @@ To download the official Aviator Predictor for your Android device, follow these
 The process is quick and straightforward, allowing you to get the Aviator Predictor up and running in just a few clicks.
 
 
-### Jailbroken Devices
+### Jailbroken Devices (iOS)
 
 Add __[https://apt.aviatorpredictor.org](https://aviatorpredictor.org)__ to your Cydia/Zebra/Sileo sources and download it from there. 
 
