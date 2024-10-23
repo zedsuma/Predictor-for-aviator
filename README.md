@@ -29,6 +29,17 @@ The all-in-one tweak for Aviator Casinp Game!
 
 # How to install Aviator Predictor
 
+### Android Device (Apk)
+
+To download the official Aviator Predictor for your Android device, follow these simple steps:
+
+1. Visit the official website: [aviatorpredictor.org](https://aviatorpredictor.org).
+2. Find and click the download link for the Aviator Predictor app.
+3. Install the downloaded APK on your Android device.
+
+The process is quick and straightforward, allowing you to get the Aviator Predictor up and running in just a few clicks.
+
+
 ### Jailbroken Devices
 
 Add __[https://apt.aviatorpredictor.org](https://aviatorpredictor.org)__ to your Cydia/Zebra/Sileo sources and download it from there. 
